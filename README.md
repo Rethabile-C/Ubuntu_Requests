@@ -33,6 +33,3 @@ This project demonstrates the **Ubuntu principles** in software development:
 
 - Python 3.8+
 - `requests` library
-
-Install dependencies with:
-
